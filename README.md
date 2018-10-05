@@ -9,5 +9,5 @@
 # install dependencies
 npm install
 
-# 确保 3030 端口未被占用
+# make sure 3030 port isn't used
 node index.js
